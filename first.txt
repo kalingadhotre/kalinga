@@ -1,3 +1,4 @@
 This is myfirst profect
 adding a new line
 ok done
+fetching and merging at a time
